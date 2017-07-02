@@ -1,2 +1,2 @@
 # weather
-<a href="https://u8k.github.io/weather/">Live Link</a>
+<a href="http://18.220.42.224/weather">Live Link</a>
